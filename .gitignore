@@ -1,0 +1,33 @@
+# Variables et secrets
+.env
+.env.*
+!.env.example
+*.tfvars
+!.tfvars.example
+*.tfvars.json
+kubeconfig*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+
+# OpenTofu : états, plans, cache des fournisseurs
+.terraform/
+*.tfstate*
+*.tfplan
+
+# Node.js
+node_modules/
+
+# VM : images et exports
+*.iso
+*.vdi
+*.vmdk
+*.vhd
+*.ova
+
+# Journaux bruts et fichiers système
+*.log
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
