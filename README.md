@@ -8,11 +8,11 @@ Chaque dossier contient les sources du scénario et un README qui précise les p
 
 | Atelier | Sujet | Dossier | État |
 | :--- | :--- | :--- | :--- |
-| A1 | MongoDB avec Docker | [ateliers/a1-mongodb-docker](ateliers/a1-mongodb-docker/) | À faire |
+| A1 | MongoDB avec Docker | [ateliers/a1-mongodb-docker](ateliers/a1-mongodb-docker/) | Fait |
 | A2 | VM Linux et conteneur web | [ateliers/a2-vm-linux-conteneur-web](ateliers/a2-vm-linux-conteneur-web/) | À faire |
 | A3 | Connecter une VM | [ateliers/a3-reseau-vm](ateliers/a3-reseau-vm/) | À faire |
 | A4 | Stockage virtuel et montage d'un disque | [ateliers/a4-stockage-virtuel](ateliers/a4-stockage-virtuel/) | À faire |
-| A5 | Nginx avec Minikube | [ateliers/a5-nginx-minikube](ateliers/a5-nginx-minikube/) | À faire |
+| A5 | Nginx avec Minikube | [ateliers/a5-nginx-minikube](ateliers/a5-nginx-minikube/) | Fait |
 | B1 | Nginx avec OpenTofu | [ateliers/b1-nginx-opentofu](ateliers/b1-nginx-opentofu/) | À faire |
 | B2 | Catalogue Node.js, PostgreSQL et Redis | [ateliers/b2-catalogue-node-postgres-redis](ateliers/b2-catalogue-node-postgres-redis/) | À faire |
 | B3 | Nginx avec Puppet | [ateliers/b3-nginx-puppet](ateliers/b3-nginx-puppet/) | À faire |
