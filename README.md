@@ -9,7 +9,7 @@ Chaque dossier contient les sources du scénario et un README qui précise les p
 | Atelier | Sujet | Dossier | État |
 | :--- | :--- | :--- | :--- |
 | A1 | MongoDB avec Docker | [ateliers/a1-mongodb-docker](ateliers/a1-mongodb-docker/) | Fait |
-| A2 | VM Linux et conteneur web | [ateliers/a2-vm-linux-conteneur-web](ateliers/a2-vm-linux-conteneur-web/) | À faire |
+| A2 | VM Linux et conteneur web | [ateliers/a2-vm-linux-conteneur-web](ateliers/a2-vm-linux-conteneur-web/) | En cours : VM installée, démarrage bloqué sous Hyper-V |
 | A3 | Connecter une VM | [ateliers/a3-reseau-vm](ateliers/a3-reseau-vm/) | À faire |
 | A4 | Stockage virtuel et montage d'un disque | [ateliers/a4-stockage-virtuel](ateliers/a4-stockage-virtuel/) | À faire |
 | A5 | Nginx avec Minikube | [ateliers/a5-nginx-minikube](ateliers/a5-nginx-minikube/) | Fait |
