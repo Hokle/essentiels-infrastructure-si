@@ -13,7 +13,7 @@ Chaque dossier contient les sources du scénario et un README qui précise les p
 | A3 | Connecter une VM | [ateliers/a3-reseau-vm](ateliers/a3-reseau-vm/) | À faire |
 | A4 | Stockage virtuel et montage d'un disque | [ateliers/a4-stockage-virtuel](ateliers/a4-stockage-virtuel/) | À faire |
 | A5 | Nginx avec Minikube | [ateliers/a5-nginx-minikube](ateliers/a5-nginx-minikube/) | Fait |
-| B1 | Nginx avec OpenTofu | [ateliers/b1-nginx-opentofu](ateliers/b1-nginx-opentofu/) | À faire |
+| B1 | Nginx avec OpenTofu | [ateliers/b1-nginx-opentofu](ateliers/b1-nginx-opentofu/) | Fait |
 | B2 | Catalogue Node.js, PostgreSQL et Redis | [ateliers/b2-catalogue-node-postgres-redis](ateliers/b2-catalogue-node-postgres-redis/) | À faire |
 | B3 | Nginx avec Puppet | [ateliers/b3-nginx-puppet](ateliers/b3-nginx-puppet/) | À faire |
 | B4 | Nginx avec Ansible | [ateliers/b4-nginx-ansible](ateliers/b4-nginx-ansible/) | À faire |
