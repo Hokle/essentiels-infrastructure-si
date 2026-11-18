@@ -15,7 +15,7 @@ Chaque dossier contient les sources du scénario et un README qui précise les p
 | A5 | Nginx avec Minikube | [ateliers/a5-nginx-minikube](ateliers/a5-nginx-minikube/) | Fait |
 | B1 | Nginx avec OpenTofu | [ateliers/b1-nginx-opentofu](ateliers/b1-nginx-opentofu/) | Fait |
 | B2 | Catalogue Node.js, PostgreSQL et Redis | [ateliers/b2-catalogue-node-postgres-redis](ateliers/b2-catalogue-node-postgres-redis/) | Fait |
-| B3 | Nginx avec Puppet | [ateliers/b3-nginx-puppet](ateliers/b3-nginx-puppet/) | À faire |
+| B3 | Nginx avec Puppet | [ateliers/b3-nginx-puppet](ateliers/b3-nginx-puppet/) | Fait, sur un conteneur cible (écart documenté) |
 | B4 | Nginx avec Ansible | [ateliers/b4-nginx-ansible](ateliers/b4-nginx-ansible/) | À faire |
 
 ## Travaux pratiques
