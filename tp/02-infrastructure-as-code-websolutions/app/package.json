@@ -1,0 +1,13 @@
+{
+  "name": "websolutions-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API de démonstration WebSolutions : route de santé et liste des projets",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "pg": "8.16.3"
+  }
+}
