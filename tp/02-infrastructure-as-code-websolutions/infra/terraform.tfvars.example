@@ -1,0 +1,2 @@
+db_password    = "a-remplacer"
+ssh_public_key = "ssh-ed25519 AAAA... commentaire"
