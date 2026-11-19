@@ -22,7 +22,7 @@ Chaque dossier contient les sources du scénario et un README qui précise les p
 
 | TP | Sujet | Dossier | État |
 | :--- | :--- | :--- | :--- |
-| 01 | Docker et Minikube : image Node.js | [tp/01-docker-minikube-node](tp/01-docker-minikube-node/) | À faire |
+| 01 | Docker et Minikube : image Node.js | [tp/01-docker-minikube-node](tp/01-docker-minikube-node/) | Fait |
 | 02 | Infrastructure as Code pour WebSolutions | [tp/02-infrastructure-as-code-websolutions](tp/02-infrastructure-as-code-websolutions/) | À faire |
 | 03 | OpenTofu avancé : DevSecOps | [tp/03-opentofu-avance/devsecops](tp/03-opentofu-avance/devsecops/) | À faire |
 | 03 | OpenTofu avancé : supervision | [tp/03-opentofu-avance/supervision](tp/03-opentofu-avance/supervision/) | À faire |
